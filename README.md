@@ -1,1 +1,1 @@
-# Samsung DS AI Expert final exams
+# Samsung DS AI Expert final exam
